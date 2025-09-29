@@ -33,3 +33,6 @@ n= [1,2,3;7,8,9;5,6,4]
 t=n'
 inv(n)
 
+% Practice of MATLAB basics: variables, matrix creation, indexing, concatenation, operations, scalar math, transpose, determinant, and inverse
+
+
